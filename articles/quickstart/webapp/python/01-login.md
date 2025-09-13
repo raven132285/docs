@@ -210,7 +210,7 @@ Create a new sub-directory in your project folder named `templates`, and create 
 
 ## Run your application
 
-You're ready to run your application! From your project directory, open a shell and use:
+You're ready to run your application.... or are you! From your project directory, open a shell and use:
 
 ```sh
 python3 server.py
